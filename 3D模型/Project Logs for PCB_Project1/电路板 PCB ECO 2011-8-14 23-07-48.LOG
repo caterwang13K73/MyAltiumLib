@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=VCC Pin=CB10-1
+Removed Pin From Net: NetName=5460SDI Pin=R30-1
+Removed Pin From Net: NetName=VCC Pin=R30-2
+Removed Pin From Net: NetName=5460CS Pin=R40-1
+Removed Pin From Net: NetName=VCC Pin=R40-2
+Removed Pin From Net: NetName=5460SDO Pin=R50-1
+Removed Pin From Net: NetName=VCC Pin=R50-2
+Removed Pin From Net: NetName=5460CLK Pin=R60-1
+Removed Pin From Net: NetName=VCC Pin=R60-2
+Removed Pin From Net: NetName=5460RST Pin=R70-1
+Removed Pin From Net: NetName=VCC Pin=R70-2
+Removed Pin From Net: NetName=ESCL Pin=R180-1
+Removed Pin From Net: NetName=VCC Pin=R180-2
+Removed Pin From Net: NetName=ESDA Pin=R190-1
+Removed Pin From Net: NetName=VCC Pin=R190-2
+Removed Pin From Net: NetName=VCC Pin=UA10-14
+Removed Pin From Net: NetName=VCC Pin=UA10-17
+Change Component DesignItemId : Designator=R30 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R40 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R50 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R60 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R70 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R180 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component DesignItemId : Designator=R190 Old DesignItemId=Res2 New DesignItemId=RES
+Change Component Footprint: Designator=R30 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R40 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R50 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R60 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R70 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R180 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Footprint: Designator=R190 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.3
+Change Component Comment : Designator=R30 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R40 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R50 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R60 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R70 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R180 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R190 Old Comment=Res2 New Comment=1K
+Added Pin To Net: NetName=VCC Pin=R30-1
+Added Pin To Net: NetName=5460SDI Pin=R30-2
+Added Pin To Net: NetName=VCC Pin=R40-1
+Added Pin To Net: NetName=5460CS Pin=R40-2
+Added Pin To Net: NetName=VCC Pin=R50-1
+Added Pin To Net: NetName=5460SDO Pin=R50-2
+Added Pin To Net: NetName=VCC Pin=R60-1
+Added Pin To Net: NetName=5460CLK Pin=R60-2
+Added Pin To Net: NetName=VCC Pin=R70-1
+Added Pin To Net: NetName=5460RST Pin=R70-2
+Added Pin To Net: NetName=VCC Pin=R180-1
+Added Pin To Net: NetName=ESCL Pin=R180-2
+Added Pin To Net: NetName=VCC Pin=R190-1
+Added Pin To Net: NetName=ESDA Pin=R190-2
+Added Pin To Net: NetName=NetCB10_1 Pin=CB10-1
+Added Pin To Net: NetName=NetCB10_1 Pin=UA10-14
+Added Pin To Net: NetName=NetCB10_1 Pin=UA10-17
+Added Net: Name=NetCB10_1
+Added Room: Name=µÁ‘≠¿ÌÕº

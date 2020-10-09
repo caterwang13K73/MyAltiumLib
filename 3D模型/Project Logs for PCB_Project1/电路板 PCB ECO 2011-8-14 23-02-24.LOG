@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R30 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R40 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R50 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R60 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R70 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R80 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R180 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R190 Old Footprint=AXIAL0.3 New Footprint=AXIAL-0.3
+Added Pin To Net: NetName=VCC Pin=CB10-1
+Added Pin To Net: NetName=VCC Pin=UA10-14
+Added Pin To Net: NetName=VCC Pin=UA10-17
+Added Room: Name=µÁ‘≠¿ÌÕº
